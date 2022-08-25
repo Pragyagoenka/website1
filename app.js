@@ -179,7 +179,7 @@
         mouseDist = 50;
         X > Y ? shapeNum = X / dist : shapeNum = Y / dist;
       } else {
-        lineWidth = 5;
+        lineWidth = 1.5;
         dist = 80;
         lessThan = Math.sqrt(dist * dist + dist * dist);
         mouseDist = 150;
