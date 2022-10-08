@@ -5636,7 +5636,7 @@ font-size: 16px;
       }
       #muddhi  .thankyou{
         position: relative;
-        top: 0vw;
+        top: 15vw;
         padding-left: 2%;
         padding-right: 2%;
         padding-top: 2%;
@@ -5649,6 +5649,7 @@ font-size: 16px;
         height: auto;
       }
       #muddhi  .t1{
+	    
          margin-left: 1%;
          margin-top: -1%;
       }
