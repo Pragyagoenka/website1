@@ -5616,14 +5616,14 @@ font-size: 16px;
       }
       #muddhi  .lesson{
         position: relative;
-        top: -3200px;
+        top: 5vw;
         left: 1vw;
       }
       #muddhi  .lesson ul{
         list-style: none;
         font-family: 'questrial';
         position: absolute;
-        top: 7vh;
+        top: 0vh;
         left: 0;
         width: 56vw;
       }
@@ -5634,7 +5634,7 @@ font-size: 16px;
       }
       #muddhi  .thankyou{
         position: relative;
-        top: -2960px;
+        top: 0;
         padding-left: 2%;
         padding-right: 2%;
         padding-top: 2%;
@@ -5647,7 +5647,7 @@ font-size: 16px;
         height: auto;
       }
       #muddhi  .t1{
-        display: flex ; 
+        display: block ; 
         flex-direction:row;
          margin-left: 1%;
          margin-top: -1%;
