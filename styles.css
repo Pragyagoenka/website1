@@ -5616,16 +5616,18 @@ font-size: 16px;
       }
       #muddhi  .lesson{
         position: relative;
-        top: 0vw;
+        top: 1vw;
         left: 1vw;
       }
       #muddhi  .lesson ul{
+	      display: flex;
+	      flex-direction: column;
         list-style: none;
         font-family: 'questrial';
         position: absolute;
-        top: 0vh;
+        top: 1vw;
         left: 0;
-        width: 56vw;
+        width: 60vw;
       }
       #muddhi  .lesson ul li{
       padding: 1%;
