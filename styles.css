@@ -5615,8 +5615,8 @@ font-size: 16px;
         text-decoration: underline;
       }
       #muddhi  .lesson{
-        position: absolute;
-        top: 5vw;
+        position: relative;
+        top: 0vw;
         left: 1vw;
       }
       #muddhi  .lesson ul{
