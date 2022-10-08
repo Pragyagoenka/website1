@@ -5670,11 +5670,12 @@ font-size: 16px;
         list-style: none;
         display: flex;
         flex-direction: row;
-      
+      top: 3vw;
       }
       #muddhi  .thankyou ul li{
         padding-top: 2%;
         padding-bottom: 2%;
+	      left: -2%;
       }
       #muddhi  .thankyou .t1 .t2 i{
         position: relative;
