@@ -5667,16 +5667,16 @@ font-size: 16px;
         width: 18vw;
       }
         #muddhi .thankyou ul{
-        list-style: none;
-        display: flex;
-        flex-direction: row;
-      top: 3vw;
+		 list-style: none;
+      display: flex;
+      flex-direction: row;
+      position: relative;
+      top: 6vh;
       }
       #muddhi  .thankyou ul li{
-	      width: 5vh
-        padding-top: 2%;
-        padding-bottom: 2%;
-	      left: -1.5%;
+	       padding-top: 2%;
+      padding-bottom: 2%;
+      padding-left: 0vh;
       }
       #muddhi  .thankyou .t1 .t2 i{
         position: relative;
