@@ -5673,8 +5673,9 @@ font-size: 16px;
       top: 3vw;
       }
       #muddhi  .thankyou ul li{
-        padding-top: 1%;
-        padding-bottom: 1%;
+        padding-top: 2%;
+        padding-bottom: 2%;
+	      padding-left:-4%;
 	      left: -1.5%;
       }
       #muddhi  .thankyou .t1 .t2 i{
