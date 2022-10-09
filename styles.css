@@ -5602,7 +5602,7 @@ font-size: 16px;
         background-color: #7155BF;
       }
       #muddhi .miro {
-        display: inline;
+        display: relative;
         padding: 1vw;
         padding: .25vw 0;
         background: #7155BF;
@@ -5659,7 +5659,7 @@ font-size: 16px;
       #muddhi  .t2{
         position: relative;
         left: 40vw; 
-        top: -16vh;
+        top: -8vh;
       }
       #muddhi .t2 p{
         font-family: 'questrial';
