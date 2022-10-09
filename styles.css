@@ -5673,9 +5673,9 @@ font-size: 16px;
       top: 3vw;
       }
       #muddhi  .thankyou ul li{
+	      width: 5vh
         padding-top: 2%;
         padding-bottom: 2%;
-	      padding-left:-4%;
 	      left: -1.5%;
       }
       #muddhi  .thankyou .t1 .t2 i{
@@ -5684,7 +5684,7 @@ font-size: 16px;
         color:#fff;
         width: 1.5vw;
         height: 1vw;
-        font-size: 2vh;+
+        font-size: 2vh;
       }
       #muddhi  .thankyou p{
         position: relative;
