@@ -265,7 +265,7 @@ a{
   font-family: 'arima madurai';
   height: 6vw;
   margin-top: 1.6vw;
-  margin-left: 4.2vw;
+  margin-left: 1vw;
   }
   .work{
     font-size: 2.5vw;
@@ -511,11 +511,11 @@ a{
     box-sizing: border-box;
   }
   @media screen and (max-width: 960px) {
-    #home {
+  #home {
       background-color: #121212;
       height: 85vw;
     }
-	  canvas#canvas {
+canvas#canvas {
   display: none;
   position: fixed;
   left: -15px;
@@ -536,7 +536,6 @@ a{
       line-height: 10vw;
       padding: 3vmin 0;
       position: absolute;
-     
     }
     .animated-title > div div span {
       display: block;
