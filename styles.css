@@ -264,7 +264,7 @@ a{
     font-size: 2.5vw;
   font-family: 'arima madurai';
   height: 6vw;
-  top: 1.6vw;
+  margin-top: 1.6vw;
   margin-left: 4.2vw;
   }
   .work{
@@ -272,7 +272,7 @@ a{
   font-family: 'arima madurai';
   height: 6vw;
   top: 1.6vw;
-  margin-left: 3vw;
+  margin-left: 1vw;
   }
   .resume{
     font-size: 2.5vw;
