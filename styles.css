@@ -254,6 +254,53 @@ a{
   transform: rotate(0deg);
 }
 @media screen and (max-width: 960px) {
+	nav {
+  position: fixed;
+  top: -6vw;
+  left: -1.5vw;
+  width: 16vw;
+  height: 150vh;
+  background-color:#121212;
+  opacity: 0.85;
+    z-index: 5;
+  font-family: 'arima madurai';
+  animation: nav 2s;
+    animation-delay: 4s;
+    animation-fill-mode: forwards;
+    transform: translateX(-100%);
+}
+nav .container {
+  width: 3vw;
+  height: 100%;
+  max-width: 100vw;
+  text-align: center;
+  font-family: 'arima madurai';
+}
+nav .container ul li {
+  display: inline-block;
+  font-family: 'arima madurai';
+  text-shadow: #fff;
+transform: rotate(-90deg);
+}
+nav .container ul li a {
+  text-align: left;
+  display: inline-block;
+  text-decoration: none;
+  color: #7e7e7e;
+  text-shadow: none;
+  transition: 0.3s ease color text-shadow;
+  font-family: 'arima madurai';
+}
+nav .container ul li a:hover {
+  text-shadow: 0.3vw #fff;
+  color: rgb(205, 205, 205);
+}
+
+nav .container ul li.active a {
+  color: rgb(255, 255, 255);
+  transition: 0.3s ease color;
+  font-family: 'arima madurai';
+}
   .home {
     font-size: 16vw;
     font-family: 'arima madurai';
