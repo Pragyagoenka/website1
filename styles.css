@@ -515,6 +515,11 @@ a{
       background-color: #121212;
       height: 85vw;
     }
+	  canvas#canvas {
+  display: none;
+  position: fixed;
+  left: -15px;
+}
     .animated-title {
       color: #fff;
       position: absolute;
