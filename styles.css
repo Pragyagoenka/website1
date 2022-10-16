@@ -1084,6 +1084,12 @@ input[type="checkbox"]:hover ~ div {
   text-shadow: 0 0 0px yellow, 0 0 5px yellow;
   animation: glow 1.5s linear infinite;
 }
+input[type="checkbox"]:checked ~ div {
+
+  color: yellow;
+  text-shadow: 0 0 0px yellow, 0 0 5px yellow;
+  animation: glow 1.5s linear infinite;
+}
 
 @keyframes glow {
   0% {
